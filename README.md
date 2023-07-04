@@ -6,7 +6,7 @@
 ## What is gpt funtions
 
 ```shell
-Gpt function is realeased by openai itself and it enables users to pass real time data to gpt through functions
+Gpt function is released by openai itself and it enables users to pass real time data to gpt through functions
 ```
 
 ## Pre-requisite
